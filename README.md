@@ -1,3 +1,2 @@
 # Ignis
-Base Projet
-Salut ma poule
+Bonjour et bienvenue sur le projet Ignis
