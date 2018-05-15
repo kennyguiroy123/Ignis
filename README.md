@@ -1,2 +1,2 @@
-# Ignis
-Bonjour et bienvenue sur le projet Ignis
+#Projet Ignis
+#Jeux vidéo

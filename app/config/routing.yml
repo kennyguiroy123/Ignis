@@ -1,0 +1,7 @@
+ignis_index_ignis:
+    resource: "@IgnisIndexIgnisBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation

@@ -1,0 +1,3 @@
+ignis_index_ignis_homepage:
+    path:     /
+    defaults: { _controller: IgnisIndexIgnisBundle:Default:index }
